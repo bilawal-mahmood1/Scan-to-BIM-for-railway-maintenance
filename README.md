@@ -46,4 +46,4 @@ To use the scripts in this repository, you will need the following software:
 
 ## Conclusion
 
-This workflow streamlines the process of extracting and integrating rail gauge measurements from point cloud data into BIM using Autodesk Civil 3D and Dynamo. By automating the tasks of centerline extraction and gauge calculation, the scripts improve efficiency and accuracy in rail infrastructure design projects.
+This workflow streamlines the process of extracting and integrating rail gauge measurements from point cloud data into BIM using Autodesk Civil 3D and Dynamo. By automating the tasks of centerline extraction and gauge calculation, the scripts improve efficiency in geomtric maintenance of rail.
